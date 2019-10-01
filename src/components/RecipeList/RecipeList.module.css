@@ -1,0 +1,12 @@
+.recipeList {
+    background: #D9D9D9;
+}
+
+.container {
+    width: 70vw;
+    margin: 0 auto;
+    padding: 3rem 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,21 @@
+.button {
+    background-color: transparent;
+    font-size: .9rem;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    color: #F9FDFA;
+    padding: .8rem 1rem;
+    margin-top: 1.5rem;
+}
+
+.success {
+    background-color: #6BA046;
+}
+
+.neutral {
+    background-color: #414A4E;
+}
+

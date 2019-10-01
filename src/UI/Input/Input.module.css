@@ -1,0 +1,25 @@
+.input {
+    width: 100%;
+}
+
+.label {
+    font-weight: 400;
+    color: #2A343A;
+    display: block;
+}
+
+.inputElement {
+    width: 100%;
+    display: block;
+    outline: none;
+    border: 1px solid #D9D9D9;
+    background-color: #f3f3f3;
+    font: inherit;
+    padding: 3px;
+    margin-bottom: 1rem;
+}
+
+.inputElement:focus {
+    outline: none;
+    background-color: #D9D9D9;
+}

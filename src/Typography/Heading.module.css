@@ -1,0 +1,32 @@
+.headingH1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.7rem;
+    text-align: center;
+    padding: 2rem;
+    line-height: 2.2rem;
+    width: 75vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    text-shadow: 0 0.7rem 2rem rgba(0,0,0,.4);
+}
+
+.headingH2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.headingH3 {
+    /*font-family: 'Playfair Display', serif;*/
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2C373D;
+    flex: 1;
+    padding: .5rem 2rem .5rem 2rem;
+}

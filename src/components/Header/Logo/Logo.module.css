@@ -1,0 +1,12 @@
+.logoText {
+    font-size: 1.8rem;
+    font-weight: 600;
+    font-style: italic;
+    color: #679947;
+    margin-left: 15vw;
+    cursor: pointer;
+}
+
+.logoText span {
+    color: #F9FDFA;
+}
